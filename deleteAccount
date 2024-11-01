@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Delete Your Account</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+      color: #333;
+    }
+    h1 {
+      color: #d9534f;
+    }
+  </style>
+</head>
+<body>
+  <h1>Delete Your Account</h1>
+  <p>If you would like to delete your account, please follow these steps:</p>
+  <ol>
+    <li><strong>Sign in</strong> to your account within the app.</li>
+    <li>Tap the <strong>Settings</strong> icon in the bottom-right corner.</li>
+    <li>Scroll to the bottom of the settings page.</li>
+    <li>Below the <strong>Sign Out</strong> button, you’ll see an option labeled <strong>Delete Account</strong>.</li>
+    <li>Tap <strong>Delete Account</strong> and confirm your choice when prompted.</li>
+  </ol>
+  <p>Note: This action is permanent and cannot be undone. Once your account is deleted, all your data will be removed from our servers.</p>
+  <p>If you need further assistance, please contact our support team at <a href="mailto:support@example.com">support@example.com</a>.</p>
+</body>
+</html>
 
